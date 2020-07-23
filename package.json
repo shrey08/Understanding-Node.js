@@ -4,7 +4,9 @@
   "description": "",
   "main": "demo.js",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "express": "^4.17.1",
+    "lodash": "^4.17.19",
+    "nodemon": "^2.0.4"
   },
   "devDependencies": {},
   "scripts": {
